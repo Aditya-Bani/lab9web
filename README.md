@@ -28,8 +28,8 @@
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 ## Berikut struktur yang saya buat
-lab9_php_database
-
+Lab9_php_database
+```
 ├── config
 │   ├── hapus.php
 │   ├── koneksi.php
@@ -49,6 +49,7 @@ lab9_php_database
 ├── index.php
 ├── tambah.php
 └── ubah.php
+```
 
 ## Config 
 Dalam folder tersebut menyimpan file khusus php yang nanti akan dieksekusi
